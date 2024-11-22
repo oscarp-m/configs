@@ -1,0 +1,44 @@
+Specs currently
+                   -`                    oscar@archlinux 
+                  .o+`                   --------------- 
+                 `ooo/                   OS: Arch Linux x86_64 
+                `+oooo:                  Kernel: 6.6.62-1-lts 
+               `+oooooo:                 Uptime: -
+               -+oooooo+:                Packages: 972 (pacman), 25 (flatpak) 
+             `/:-:++oooo+:               Shell: bash 5.2.37 
+            `/++++/+++++++:              Resolution: 2560x2520 
+           `/++++++++++++++:             DE: Plasma 6.2.3 
+          `/+++ooooooooooooo/`           WM: KWin 
+         ./ooosssso++osssssso+`          Theme: Breeze-Dark [GTK2], Breeze [GTK3] 
+        .oossssso-````/ossssss+`         Icons: breeze-dark [GTK2/3] 
+       -osssssso.      :ssssssso.        Terminal: konsole 
+      :osssssss/        osssso+++.       CPU: AMD Ryzen 5 2600 (12) @ 3.400GHz 
+     /ossssssss/        +ssssooo/-       GPU: NVIDIA GeForce GTX 970 
+   `/ossssso+/:-        -:/+osssso+-     Memory: 4388MiB / 32024MiB 
+  `+sso+:-`                 `.-/+oso:
+ `++:.                           `-/+/                           
+ .`                                 `/                           
+
+ - Ark
+ - Btop
+ - Bitwarden
+ - Calculator
+ - Discord
+ - Docker
+ - Dolphin
+ - Firefox
+ - Flatpak
+ - Gnu Image Manipulation Program (GIMP)
+ - Raspberry Pi Imager
+ - Kate
+ - KDE connect
+ - Konsole
+ - Kwrite
+ - Neovim
+ - Ranger
+ - Shutter
+ - Steam
+ - Telegram desktop
+ - UGEE tablet
+ - Ungoogled Chromium
+ - Vim
